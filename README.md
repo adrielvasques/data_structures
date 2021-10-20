@@ -5,5 +5,5 @@ Here is possible to find some implantation of data structures.
 * GCC 
 
 ## Instructions 
-To compile: gcc prog.c -o prog
-To execute: ./prog
+* To compile: gcc prog.c -o prog
+* To execute: ./prog
